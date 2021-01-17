@@ -935,7 +935,7 @@ footer .copyright {
   left: 0;
   right: 0;
   background-color: #333;
-  z-index: 98;
+  z-index: 999;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
