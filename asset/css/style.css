@@ -19,8 +19,7 @@ section.hero {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-  padding: 20px 100px;
-  height: 80vh;
+  padding: 20px 100px 60px;
   color: #fff;
   position: relative;
 }

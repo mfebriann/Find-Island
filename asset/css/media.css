@@ -95,7 +95,7 @@
 
 @media (max-width: 876px) {
   section.hero {
-    padding: 20px 40px;
+    padding: 20px 40px 60px;
   }
   section.hero nav ul {
     position: fixed;
@@ -200,7 +200,7 @@
 
 @media (max-width: 460px) {
   section.hero {
-    padding: 20px;
+    padding: 20px 20px 60px;
   }
   section.hero nav .menu.fix {
     right: 20px;
