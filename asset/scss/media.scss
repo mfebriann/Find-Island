@@ -99,7 +99,7 @@ $paddingMobile: 20px;
 
 @media (max-width:876px) {
     section.hero {
-        padding: 20px $paddingTablet;
+        padding: 20px $paddingTablet 60px;
 
         nav {
             ul {
@@ -221,7 +221,7 @@ $paddingMobile: 20px;
 
 @media (max-width:460px) {
     section.hero {
-        padding: $paddingMobile;
+        padding: 20px $paddingMobile 60px;
 
         nav {
             .menu.fix {
